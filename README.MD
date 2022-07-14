@@ -32,5 +32,4 @@ disini saya menggunakan unit test dimana ada asserstion untuk menguji coba, bisa
 
 # Coder
 - Fajrul Aulia
-    - E-Mail: devel.fajrul.aulia@gmail.com
     - github: https://github.com/fajrulaulia?tab=repositories
